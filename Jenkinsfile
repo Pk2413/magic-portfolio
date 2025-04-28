@@ -22,5 +22,6 @@ pipeline {
         //         bat 'vercel deploy'  // Deploy step with bat
         //     }
         // }
+        
     }
 }
